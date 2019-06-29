@@ -4,4 +4,4 @@
 
 
 ## Overview
-Just see [this](https://ziphil.github.io/Mofumofu/index.html).
+Just see [this](https://ziphil.github.io/Mofumofu/).
